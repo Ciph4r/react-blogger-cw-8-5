@@ -84,7 +84,7 @@ export default CreateBlog
 
 
 CreateBlog.propTypes = {
-    handleBlogSubmit: PropTypes.string
+    handleBlogSubmit: PropTypes.func
   
   }
   
